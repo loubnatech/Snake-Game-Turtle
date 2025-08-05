@@ -1,39 +1,25 @@
-# 🐍 Snake Game - Python Turtle Edition
+# Snake Game Turtle 🐍🎮
 
-A simple yet fun implementation of the classic Snake Game using Python and the Turtle graphics library.
-
----
-
-## 🎮 How to Play
-
-- Use the **arrow keys** on your keyboard to control the snake:
-  - **Up arrow** to move up
-  - **Down arrow** to move down
-  - **Left arrow** to move left
-  - **Right arrow** to move right
-
-- Eat the food to grow the snake and increase your score.
-- **Game Over** if:
-  - The snake hits the wall
-  - The snake collides with its own body
+Welcome to the Snake Game built with Python's Turtle module!
 
 ---
 
-## 🏆 High Score Feature
+## Features
 
-This game stores the **highest score** ever achieved in a special file.  
-Every time you play, the game compares your current score with the highest one and updates it if you beat the record!
+- Control the snake using keyboard arrow keys.
+- The game ends when the snake hits the wall or itself.
+- High score tracking saved in a separate file for continuous challenge.
+- Simple and smooth gameplay suitable for all ages.
+- Lightweight game with no complex setup required.
 
 ---
 
-## 🚀 Getting Started
+## How to Run
 
-### ✅ Requirements
+1. Make sure you have **Python 3** installed on your system.
+2. Clone this repository or download the ZIP file.
+3. Open a terminal/command prompt in the project directory.
+4. Run the game using the command:
 
-- Python 3.x
-- No external libraries are required (only the built-in `turtle` module is used)
-
-### ▶️ To Run the Game:
-
-```bash
-python main.py
+   ```bash
+   python snake_game.py
