@@ -55,10 +55,11 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ---
 
 ## Acknowledgments
+Developed using Python and the Turtle graphics library.
 
-- Developed using Python and the Turtle graphics library.
-- Inspired by the classic Snake game.
+Inspired by the classic Snake game.
 
----
+This project is based on the tutorial and code by Professor Ibrahim Adel from the YouTube channel ouctocode.
+The code has been rewritten and structured by me as part of my learning journey.
 
 Thank you for playing! If you enjoy the game, please ⭐ star this repo.
