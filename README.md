@@ -14,6 +14,10 @@ Welcome to the Snake Game built with Python's Turtle module!
 
 ---
 
+## Version 📌
+Current Release: **v1.0.0**
+
+
 ## How to Run
 
 1. Make sure you have **Python 3** installed on your system.
